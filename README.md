@@ -1,8 +1,8 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourtulloh%2Fhit-counter&count_bg=%23E84E4E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+visit&edge_flat=false)](https://github.com/yourtulloh)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourtulloh%2Fhit-counter&count_bg=%23E84E4E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+visit&edge_flat=false)](https://github.com/gitenvx)
 
 <div align="center">
   <div>
-    <a href="https://github.com/yourtulloh" target="_blank">
+    <a href="https://github.com/gitenvx" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=yourtulloh&theme=dracula&show_icons=true"
          alt="github stats"/>
     </a>
@@ -11,7 +11,7 @@
 <br>
 <div align="right">
   <div>
-    <a href="https://t.me/Drivecok" target="_blank">
+    <a href="https://t.me/gitenvx" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
          alt="telegram"/>
     </a>
@@ -71,7 +71,7 @@ sudo reboot
     </a>
     <a href="https://github.com" target="_blank">
       <img
-        src="https://raw.githubusercontent.com/yourtulloh/yourtulloh/master/GitHub-Mark-Light-120px-plus.png"
+        src="https://raw.githubusercontent.com/gitenvx/gitenvx/master/GitHub-Mark-Light-120px-plus.png"
         alt="GitHub"
         width="45"
         height="45"
@@ -122,7 +122,7 @@ sudo reboot
   </div>
 </div>
 
-[![ula](https://raw.githubusercontent.com/yourtulloh/yourtulloh/master/github-contribution-grid-snake.svg)](https://github.com/yourtulloh)
+[![ula](https://raw.githubusercontent.com/gitenvx/gitenvx/master/github-contribution-grid-snake.svg)](https://github.com/gitenvx)
 
 
 
