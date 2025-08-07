@@ -1,9 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourtulloh%2Fhit-counter&count_bg=%23E84E4E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+visit&edge_flat=false)](https://github.com/gitenvx)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgitenvx%2Fhit-counter&count_bg=%23E84E4E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+visit&edge_flat=false)](https://github.com/gitenvx)
 
 <div align="center">
   <div>
     <a href="https://github.com/gitenvx" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=yourtulloh&theme=dracula&show_icons=true"
+      <img src="https://github-readme-stats.vercel.app/api?username=gitenvx&theme=dracula&show_icons=true"
          alt="github stats"/>
     </a>
   </div>
